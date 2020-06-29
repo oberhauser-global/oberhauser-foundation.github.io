@@ -382,7 +382,7 @@ textarea {
 }
 
 .ftco-bg-dark {
-  background: #263135;
+  background: #162341;
 }
 
 .ftco-footer {
@@ -396,10 +396,10 @@ textarea {
   font-weight: normal;
 }
 .ftco-footer p {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.6);
 }
 .ftco-footer a {
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.6);
 }
 .ftco-footer a:hover {
   color: #4586ff;
