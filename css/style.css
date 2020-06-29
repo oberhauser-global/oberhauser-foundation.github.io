@@ -180,6 +180,9 @@ h5,
   font-size: 45px;
   line-height: 1.34;
   color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 500;
 }
 @media screen and (max-width: 768px) {
   .ftco-cover .ftco-heading {
